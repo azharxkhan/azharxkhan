@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developing a GymApp to streamline fitness tracking and improve user experience<br>🌱 Learning website design to expand my frontend capabilities<br>💻 Proficient in Python, Java, and SQL<br>💬 Aspiring software engineer with a passion for backend development, aiming to build scalable and efficient systems<br>🚀 Looking to collaborate on open-source projects and learn from experienced developers<br>⚡ Fun fact: I'm a gamer, coffee enthusiast, tech lover, and always excited to explore new software, frameworks, and programming languages!<br>🌍 Based in South Africa and always on the lookout for new learning opportunities worldwide
+🔭 I’m currently developing a Template Fetcher able to scrap websites for templates<br>🌱 Learning website design to expand my frontend capabilities<br>💻 Proficient in Python, Java, and SQL<br>💬 Aspiring software engineer with a passion for backend development, aiming to build scalable and efficient systems<br>🚀 Looking to collaborate on open-source projects and learn from experienced developers<br>⚡ Fun fact: I'm a gamer, coffee enthusiast, tech lover, and always excited to explore new software, frameworks, and programming languages!<br>🌍 Based in South Africa and always on the lookout for new learning opportunities worldwide
 
 
 # 💻 Tech Stack:
