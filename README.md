@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Azhar 👋</h1>
 
 <p align="center">
-  Backend-leaning software engineer from South Africa 🇿🇦 — building things that scale, breaking things that don't.
+  Backend-leaning software engineer from South Africa 🇿🇦 - building things that scale, breaking things that don't.
 </p>
 
 <p align="center">
@@ -20,14 +20,14 @@ class Azhar:
         self.role       = "Aspiring Software Engineer"
         self.focus      = "Backend · scalable, efficient systems"
         self.learning   = ["AWS & Terraform", "Web design", "Machine Learning"]
-        self.building   = "Terraform-AWS-Lab — infrastructure as code, the hard way"
+        self.building   = "Terraform-AWS-Lab - infrastructure as code, the hard way"
         self.open_to    = ["Open source", "Collaboration", "Mentorship"]
 
     def fun_fact(self):
         return "Gamer ☕ coffee enthusiast, tech lover, always chasing the next framework."
 ```
 
-- 🔭 Currently building **Terraform-AWS-Lab** — learning cloud infrastructure as code
+- 🔭 Currently building **Terraform-AWS-Lab** - learning cloud infrastructure as code
 - 🤖 Recently shipped **ML_Rock-Paper-Scissor**, a deep-learning hand-gesture classifier
 - 🌱 Learning **website design** to round out my frontend skills
 - 💻 Comfortable in **Python**, **Java**, and **SQL**
@@ -110,4 +110,4 @@ class Azhar:
   <a href="https://github.com/azharxkhan"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and say hi!</i></p>
+<p align="center"><i>⭐️ Thanks for stopping by - feel free to explore my repos and say hi!</i></p>
