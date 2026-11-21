@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 💼 **Software Developer at Megatech Business Solutions** (Oct 2025 to now). Main developer on our in-house help desk and billing platform, plus .NET APIs, Angular and React front ends, and AI tooling for the team
+- 💼 **Software Developer ** Main developer on our in-house help desk and billing platform, plus .NET APIs, Angular and React front ends, and AI tooling for the team
 - 🎯 Heading towards **data engineering**, with DevOps and full-stack close behind
 - 🌱 Right now: building a data pipeline from scratch (Postgres, dbt, Airflow) and an open-source MCP server in .NET
 - 🎓 WeThinkCode_ alumnus (NQF 5 Systems Development)
