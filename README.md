@@ -15,7 +15,6 @@
 ## 🧠 About Me
 
 - 💼 **Software Developer at Megatech Business Solutions** (Oct 2025 to now). Main developer on our in-house help desk and billing platform, plus .NET APIs, Angular and React front ends, and AI tooling for the team
-- 📈 **2,500+ commits across 21 work repos** in my first year, most of them private
 - 🎯 Heading towards **data engineering**, with DevOps and full-stack close behind
 - 🌱 Right now: building a data pipeline from scratch (Postgres, dbt, Airflow) and an open-source MCP server in .NET
 - 🎓 WeThinkCode_ alumnus (NQF 5 Systems Development)
@@ -86,6 +85,11 @@
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com/?user=azharxkhan&theme=tokyonight&hide_border=true&background=0d1117" alt="Contribution streak"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azharxkhan&theme=tokyonight" alt="GitHub stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azharxkhan&theme=tokyonight" alt="Most commits by language"/>
 </p>
 
 <p align="center">
