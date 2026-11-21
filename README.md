@@ -1,38 +1,26 @@
 <h1 align="center">Hi, I'm Azhar 👋</h1>
 
 <p align="center">
-  Backend-leaning software engineer from South Africa 🇿🇦 - building things that scale, breaking things that don't.
+  Software developer from Durban, South Africa 🇿🇦. I build backend systems, internal tools and the pipelines that keep them running.
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/azhar-khan-67b075218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:azhargamer16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/azharxkhan"><img src="https://img.shields.io/github/followers/azharxkhan?label=Followers&style=for-the-badge&color=6366f1&labelColor=0d1117" alt="Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=azharxkhan&style=for-the-badge&color=6366f1&labelColor=0d1117" alt="Profile views"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-```python
-class Azhar:
-    def __init__(self):
-        self.location   = "South Africa 🇿🇦"
-        self.role       = "Aspiring Software Engineer"
-        self.focus      = "Backend · scalable, efficient systems"
-        self.learning   = ["AWS & Terraform", "Web design", "Machine Learning"]
-        self.building   = "Terraform-AWS-Lab - infrastructure as code, the hard way"
-        self.open_to    = ["Open source", "Collaboration", "Mentorship"]
-
-    def fun_fact(self):
-        return "Gamer ☕ coffee enthusiast, tech lover, always chasing the next framework."
-```
-
-- 🔭 Currently building **Terraform-AWS-Lab** - learning cloud infrastructure as code
-- 🤖 Recently shipped **ML_Rock-Paper-Scissor**, a deep-learning hand-gesture classifier
-- 🌱 Learning **website design** to round out my frontend skills
-- 💻 Comfortable in **Python**, **Java**, and **SQL**
-- 🤝 Looking to collaborate on open-source projects and learn from experienced devs
-- 🌍 Based in South Africa, always hunting for learning opportunities worldwide
+- 💼 **Software Developer at Megatech Business Solutions** (Oct 2025 to now). Main developer on our in-house help desk and billing platform, plus .NET APIs, Angular and React front ends, and AI tooling for the team
+- 📈 **2,500+ commits across 21 work repos** in my first year, most of them private
+- 🎯 Heading towards **data engineering**, with DevOps and full-stack close behind
+- 🌱 Right now: building a data pipeline from scratch (Postgres, dbt, Airflow) and an open-source MCP server in .NET
+- 🎓 WeThinkCode_ alumnus (NQF 5 Systems Development)
+- 🏆 1st place, Motheo Financial Dialogues 2024 · 3rd place, AWS DeepRacer Team Challenge 2024
+- 🤝 Open to collaboration, open source and good code reviews
 
 ---
 
@@ -40,46 +28,64 @@ class Azhar:
 
 **Languages**
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Backend & Frontend**
+
+![.NET](https://img.shields.io/badge/.NET_8%20%2F%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Data**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-**Cloud & Infra**
+**Cloud, DevOps & Testing**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
-**Tools & Workflow**
+**AI**
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_servers-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**PRVisualizer**](https://github.com/azharxkhan/PRVisualizer) | Paste a GitHub PR link, get a clickable map of where the change is. No AI, every number comes from GitHub's API. [Live demo](https://azharxkhan.github.io/PRVisualizer/) | .NET 10 · React 19 · TypeScript |
+| [**sales-mcp**](https://github.com/azharxkhan/sales-mcp) | Open-source MCP server for building B2B sales agents, with guardrails enforced in code. CI, CodeQL and decision records in place; first release in progress | C# · .NET 10 · MCP |
+| [**CTF**](https://github.com/azharxkhan/CTF) | Internal capture-the-flag platform for teaching secure coding. 16 challenges + 4 warm-ups; players earn points for patching the bug, not just finding it | Docker · CTFd · .NET · Python |
+| [**Data-Pipeline-Lab**](https://github.com/azharxkhan/Data-Pipeline-Lab) | Daily ZAR exchange rates and Durban weather: extract, validate, load, model, schedule. Just started | Python · PostgreSQL · Docker · dbt · Airflow |
+| [**ygo-combo-engine**](https://github.com/azharxkhan/ygo-combo-engine) | Yu-Gi-Oh! combo finder that searches legal plays for the best turn 1 board, driving the real ygopro-core engine | Python · C++ |
+| [**ML_Rock-Paper-Scissor**](https://github.com/azharxkhan/ML_Rock-Paper-Scissor) | Computer vision app that classifies hand gestures with deep learning | Python · ML |
+
+<sub>More in the [repo list](https://github.com/azharxkhan?tab=repositories): Gym membership system (Java, DAO), CVMate, pathfinding visualiser, Sudoku solver and other experiments.</sub>
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com/?user=azharxkhan&theme=tokyonight&hide_border=true&background=0d1117" alt="Contribution streak"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azharxkhan&theme=tokyonight" alt="GitHub stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azharxkhan&theme=tokyonight" alt="Repos per language"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azharxkhan&theme=tokyonight" alt="Most commits by language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azharxkhan&theme=tokyonight&utcOffset=2" alt="Productive time"/>
 </p>
 
 <p align="center">
@@ -88,26 +94,4 @@ class Azhar:
 
 ---
 
-## 📌 Featured Projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**ML_Rock-Paper-Scissor**](https://github.com/azharxkhan/ML_Rock-Paper-Scissor) | Computer vision app that classifies hand gestures with deep learning | Python · ML |
-| [**Gym_Membership**](https://github.com/azharxkhan/Gym_Membership) | Manages users, subscriptions and membership tiers on a DAO architecture | Java · SQL |
-| [**CVMate**](https://github.com/azharxkhan/CVMate) | Desktop app presenting an interactive resume via GUI and chatbot | Python · GUI |
-| [**PathFindingAlgo**](https://github.com/azharxkhan/PathFindingAlgo) | Maze pathfinding algorithm with a visual representation of the search | Python |
-| [**Terraform-AWS-Lab**](https://github.com/azharxkhan/Terraform-AWS-Lab) | Hands-on lab provisioning AWS infrastructure as code | Terraform · AWS |
-| [**Password_Manager**](https://github.com/azharxkhan/Password_Manager) | Local credential manager built to learn secure storage patterns | Java |
-
-<sub>More in the [repo list](https://github.com/azharxkhan?tab=repositories) — Sudoku solver, video URL scanner, astrophysics notebooks, and other experiments.</sub>
-
----
-
-## 📫 Connect
-
-<p align="center">
-  <a href="mailto:azhargamer16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/azharxkhan"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-<p align="center"><i>⭐️ Thanks for stopping by - feel free to explore my repos and say hi!</i></p>
+<p align="center"><i>⭐️ Thanks for stopping by. Feel free to explore my repos and say hi!</i></p>
